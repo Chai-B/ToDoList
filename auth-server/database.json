@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "email": "user@example.com",
+      "password": "$2b$10$zqiX3YUV/hdPLAkdjULbFeE63H3tGgIXL6OZIbtvUVB2biGltkm.O",
+      "tasks": [
+        {
+          "task": "Do laundry",
+          "day": "2024-06-17",
+          "completed": false,
+          "isRecurring": false
+        },
+        {
+          "task": "Buy groceries",
+          "day": "2024-06-17",
+          "completed": true,
+          "isRecurring": false
+        },
+        {
+          "task": "Read book",
+          "day": "2024-06-16",
+          "completed": true,
+          "isRecurring": false
+        },
+        {
+          "task": "Exercise",
+          "day": "2024-06-17",
+          "completed": false,
+          "isRecurring": true
+        }
+      ],
+      "dailyStreak": [
+        {
+          "day": "2024-06-17",
+          "streak": 2
+        }
+      ]
+    },
+    {
+      "email": "c@b.com",
+      "password": "$2b$10$kf4JDuiX67GWaqsCv2CnrOaMctB/j2XLT.RZ90DapvgAqmAJl3Tjq"
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "$2b$10$FnI6rfH4GonKqUPWMJFn7.T7hIFW8jFAyw6Eap3VaT3OARfmS8k3e",
+      "tasks": [],
+      "recurringTasks": [],
+      "dailyStreak": []
+    },
+    {
+      "task": "hello",
+      "day": "Mon Jun 17 2024"
+    },
+    {
+      "task": "hello",
+      "day": "Mon Jun 17 2024"
+    },
+    {
+      "task": "hi",
+      "day": "Mon Jun 17 2024"
+    },
+    {
+      "task": "hello",
+      "day": "Mon Jun 17 2024"
+    },
+    {
+      "email": "1@2.com",
+      "password": "$2b$10$sQdCAFgY51nyShIuxrb2bulp1.2WTten41YSzaudc6.Xb./5bHDUS",
+      "tasks": [],
+      "recurringTasks": [],
+      "dailyStreak": []
+    },
+    {
+      "email": "123@12.com",
+      "password": "$2b$10$RzHwotMCbfjBsCzOfDYdT.0Vm6PvIQwQLjbxK7sPVLsic0XpVugdG",
+      "tasks": [],
+      "recurringTasks": [],
+      "dailyStreak": []
+    },
+    {
+      "email": "1@3.com",
+      "password": "$2b$10$LIDyBow3dpDySQrivUiVIuTQcoC9WpBJiWcTzxkCZ6Wx0CZG6HOqK",
+      "tasks": [],
+      "recurringTasks": [],
+      "dailyStreak": []
+    },
+    {
+      "email": "1@4.com",
+      "password": "$2b$10$7tS2KKV7Ct6wqBP6eMS28eh5m4MSND.44W9AuFoftVqoSGk/kAYUG",
+      "tasks": [],
+      "recurringTasks": [],
+      "dailyStreak": []
+    },
+    {
+      "email": "12@gmail.com",
+      "password": "$2b$10$MZOU90LDudldGIzU604o5eZPMbDCP.tDkXIGHMvEcPmskB3YOF6OG",
+      "tasks": [],
+      "recurringTasks": [],
+      "dailyStreak": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+/* DaysNavigation.css */
+.todo-container days-navigation {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  flex-wrap: nowrap;
+}
+
+.day {
+  padding: 6px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.day.highlight {
+  font-weight: bold;
+  color: cornflowerblue;
+}
+
+.day.selected {
+  background-color: cornflowerblue;
+  color: white;
+  border-radius: 8px;
+}
